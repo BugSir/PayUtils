@@ -1,3 +1,5 @@
+[![](https://www.jitpack.io/v/BugSir/PayUtils.svg)](https://www.jitpack.io/#BugSir/PayUtils)
+
 支付宝、微信支付简单封装<br/>
 引用方法:<br/>
 支付宝：<br/>
